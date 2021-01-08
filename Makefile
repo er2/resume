@@ -10,8 +10,9 @@ docx: resume.fodt
 	
 install: upload
 	
-upload: 
+upload: build
 	rsync -avh build/* blog:~/
+	ssh blog './install-resume.sh'
 	
 
 .PHONY: clean	
