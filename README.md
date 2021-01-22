@@ -6,7 +6,7 @@ ODT is an open standard document format. It is functionally equivalent to the Mi
 
 I prefer to generate [hybrid PDFs](https://wiki.documentfoundation.org/Faq/Writer/PDF_Hybrid).
 
-My pdf permalink is http://hire.ericrie.se
+My pdf permalink is https://hire.ericrie.se
 My .docx is at https://ericrie.se/resume.docx
 
 ### Prerequisites/Setup
