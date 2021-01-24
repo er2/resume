@@ -4,7 +4,7 @@ When you find yourself answering the same questions over and over again, that me
 
 #### What type of environment do you want/need?
 
-I prefer in person, not remote. I like the collaboration of open plan offices. But I think the elbow-to-elbow long shared desks that are trendy at startups push it too far. Give me some privacy so my coworkers and I aren't constantly on each others peripheral vision.
+I prefer in person, not remote. I like the collaboration of open plan offices. But I think the elbow-to-elbow long shared desks that are trendy at startups pushes it too far. Give me some privacy so my coworkers and I aren't constantly on each others peripheral vision.
 
 I'd like to be able to bike to work and walk around and get fresh air on my breaks.
 
@@ -30,4 +30,4 @@ If you have nitro cold brew coffee on draft, I will overvalue that when consider
 
 Zeal. I'm looking for a zealous workplace. Not some place that "does agile" because they were told to.  A place that has tried different ways of doing things and does it the way they do because it works for them. And they're so passionate about it that they proselytize.
 
-My proxy for this has been the use of functional programming languages. I think that attracts a certain type of programmer. I wonder sometimes how much the benefits of FP comes from this selection. I guess I'm getting at the [blub paradox](http://www.paulgraham.com/avg.html).
+My proxy for this has been the use of functional programming languages. I think that attracts a certain type of programmer. I wonder sometimes how much the benefits of FP comes from selecting for this type of programmer. I guess I'm getting at the [blub paradox](http://www.paulgraham.com/avg.html).
