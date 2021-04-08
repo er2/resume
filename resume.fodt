@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-08-26T16:04:48.016886542</meta:creation-date><dc:date>2021-03-06T13:57:11.409838913</dc:date><meta:editing-duration>PT3H8M4S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="79" meta:word-count="313" meta:character-count="2104" meta:non-whitespace-character-count="1832"/></office:meta>
+ <office:meta><meta:creation-date>2020-08-26T16:04:48.016886542</meta:creation-date><dc:date>2021-04-07T20:57:59.139845105</dc:date><meta:editing-duration>PT3H9M37S</meta:editing-duration><meta:editing-cycles>34</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="78" meta:word-count="305" meta:character-count="2070" meta:non-whitespace-character-count="1804"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">13284</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">71007</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">36394</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">33771</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15612</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">34530</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">17131</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19096</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">18501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">71005</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">36393</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">13284</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">33770</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">28894</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -89,7 +89,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3150394</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3199836</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -147,9 +147,9 @@
   <style:font-face style:name="Open sans" svg:font-family="&apos;Open sans&apos;" style:font-adornments="Regular" style:font-family-generic="swiss"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Bold Italic" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans3" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Italic" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans3" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Bold Italic" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Italic" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -158,7 +158,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -197,7 +197,7 @@
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="28pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="28pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
@@ -205,11 +205,11 @@
   </style:style>
   <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
    <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Open Sans3" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="75%" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="75%" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
    <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Open Sans3" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="101%" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="101%" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
    <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
@@ -217,7 +217,7 @@
   </style:style>
   <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false" style:page-number="auto"/>
-   <style:text-properties style:font-name="Open Sans3" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="85%" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="85%" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Salutation" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
@@ -227,7 +227,7 @@
   </style:style>
   <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
    <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Bold Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="85%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans3" fo:font-family="&apos;Open Sans&apos;" style:font-style-name="Bold Italic" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="85%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="List_20_Indent" style:display-name="List Indent" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-left="1.9689in" fo:margin-right="0in" fo:text-indent="-1.7717in" style:auto-text-indent="false">
@@ -365,85 +365,91 @@
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="10.5pt" officeooo:rsid="000c2c59" officeooo:paragraph-rsid="002e5eeb" style:font-size-asian="10.5pt" style:font-size-complex="10.5pt"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Salutation">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="000f5f0c"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0030123a" officeooo:paragraph-rsid="0030123a"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Salutation">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0015cdd8"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:font-style="normal" officeooo:paragraph-rsid="0015cdd8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="column"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="List_20_Indent">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="List_20_Indent">
    <style:text-properties officeooo:rsid="0014abc8" officeooo:paragraph-rsid="0015cdd8"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties style:font-name="Open sans" fo:font-size="10pt" fo:font-style="normal" officeooo:rsid="000d2015" officeooo:paragraph-rsid="000f5f0c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties officeooo:paragraph-rsid="000c2c59"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.05in" fo:margin-right="0in" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto"/>
    <style:text-properties style:font-name="Open Sans" fo:font-size="6pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="5.25pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:font-style="normal" officeooo:paragraph-rsid="0015cdd8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="column"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="List_20_Indent" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="0014abc8" officeooo:paragraph-rsid="0015cdd8"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="000d2015" officeooo:paragraph-rsid="000f5f0c"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="000d2015" officeooo:paragraph-rsid="000d2015"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="002e5eeb" officeooo:paragraph-rsid="002e5eeb"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0013b4de" officeooo:paragraph-rsid="0013b4de" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties style:font-name="Open sans" fo:font-size="10pt" fo:font-style="normal" officeooo:rsid="000d2015" officeooo:paragraph-rsid="000f5f0c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:paragraph-rsid="002e5eeb"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:paragraph-rsid="000f5f0c"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="000f5f0c" officeooo:paragraph-rsid="002a6cf8"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="000f5f0c" officeooo:paragraph-rsid="000f5f0c"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="0014abc8" officeooo:paragraph-rsid="0014abc8"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5"/>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0030123a" officeooo:paragraph-rsid="0030123a"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="0014abc8" officeooo:paragraph-rsid="0014abc8"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5"/>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="0030d35c" officeooo:paragraph-rsid="0030d35c"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties style:font-name="Open sans" fo:font-size="10pt" fo:font-style="normal" officeooo:rsid="000d2015" officeooo:paragraph-rsid="000f5f0c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
@@ -834,12 +840,12 @@
    <text:p text:style-name="Standard">High Functioning</text:p>
    <text:p text:style-name="Standard">Functional Programmer</text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="T1">w</text:span>ith Linux in his Heart</text:p>
-   <text:p text:style-name="P31"/>
-   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="mailto:eric.riese@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">eric.riese@gmail.com</text:a></text:p>
-   <text:p text:style-name="P23">215-259-8486</text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="mailto:eric.riese@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">eric.riese@gmail.com</text:a></text:p>
+   <text:p text:style-name="P25">215-259-8486</text:p>
    <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="http://hire.ericrie.se/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http</text:a><text:a xlink:type="simple" xlink:href="http://hire.ericrie.se/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">s</text:span></text:a><text:a xlink:type="simple" xlink:href="http://hire.ericrie.se/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">://hire.ericrie.se/</text:a></text:p>
-   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://github.com/er2/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">github.com/er2/</text:a></text:p>
-   <text:h text:style-name="P25" text:outline-level="3">Skills</text:h>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://github.com/er2/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">github.com/er2/</text:a></text:p>
+   <text:h text:style-name="P27" text:outline-level="3">Skills</text:h>
    <text:p text:style-name="P6">Java</text:p>
    <text:p text:style-name="P7">Scala</text:p>
    <text:p text:style-name="P7">Linux</text:p>
@@ -854,17 +860,17 @@
    <text:p text:style-name="P8">Docker</text:p>
    <text:p text:style-name="P9">Functional Programming</text:p>
    <text:p text:style-name="P20">OOP</text:p>
-   <text:h text:style-name="P25" text:outline-level="3">Educatio<text:span text:style-name="T6">n</text:span></text:h>
+   <text:h text:style-name="P27" text:outline-level="3">Educatio<text:span text:style-name="T6">n</text:span></text:h>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">Lehigh University</text:h>
    <text:p text:style-name="P21">Computer Science/</text:p>
    <text:p text:style-name="P22">Engineering<text:tab/><text:span text:style-name="T14">B.S.<text:tab/></text:span>2012</text:p>
-   <text:h text:style-name="P25" text:outline-level="3">Organizations</text:h>
+   <text:h text:style-name="P27" text:outline-level="3">Organizations</text:h>
    <text:p text:style-name="P1">Philly Java User Group</text:p>
    <text:p text:style-name="P1">Philly Linux User Group</text:p>
    <text:p text:style-name="P1">Philly Area Scala Enthusi<text:span text:style-name="T2">a</text:span>sts</text:p>
    <text:p text:style-name="P1">Lehigh Philosophy Club</text:p>
    <text:p text:style-name="Standard">Lehigh Debate</text:p>
-   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P32"/>
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18"/>
@@ -873,131 +879,128 @@
    <text:p text:style-name="P18">Read my <text:a xlink:type="simple" xlink:href="https://github.com/er2/resume/blob/master/FAQ.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Interviewing FAQ</text:a></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P19">This resume in <text:a xlink:type="simple" xlink:href="https://ericrie.se/resume.docx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">.docx</text:a></text:p>
-   <text:h text:style-name="P27" text:outline-level="3">Experience</text:h>
+   <text:h text:style-name="P29" text:outline-level="3">Experience</text:h>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">Wingspan, an IQVIA Company</text:h>
    <text:p text:style-name="P3"><text:span text:style-name="T3">Sr Software Engineer</text:span> <text:s/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s text:c="7"/><text:tab/> <text:s text:c="2"/>Jan 2019 – Present</text:p>
-   <text:list xml:id="list11192014" text:style-name="L1">
+   <text:list xml:id="list1846394441" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P36">Maintained <text:span text:style-name="T5">Electronic Trial Master File </text:span><text:span text:style-name="T10">Application</text:span> </text:p>
+     <text:p text:style-name="P37">Maintained <text:span text:style-name="T5">Electronic Trial Master File </text:span><text:span text:style-name="T10">Application</text:span> </text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P36"><text:span text:style-name="T7">S</text:span>cala, Java, PostgreSQL</text:p>
+       <text:p text:style-name="P37"><text:span text:style-name="T7">S</text:span>cala, Java, PostgreSQL</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">TypeScript, React, MobX</text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P37">Designed and Developed <text:span text:style-name="T5">Deployed Application Facilitation Tooling</text:span></text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P39">with multi-tier plugin architecture</text:p>
+       <text:p text:style-name="P39">TypeScript, React, MobX</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Developed Group Calendaring Slackbot</text:p>
+     <text:p text:style-name="P38">Designed and Developed <text:span text:style-name="T5">Deployed Application Facilitation Tooling</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P40">Spring Boot, jOOQ</text:p>
+       <text:p text:style-name="P40">with multi-tier plugin architecture</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P52">Developed Group Calendaring Slackbot</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P41">Spring Boot, jOOQ</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">T.S. Partners, Inc.</text:h>
    <text:p text:style-name="Standard"><text:span text:style-name="T3">Software Developer</text:span> <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s text:c="5"/><text:tab/> Oct 2013 – Jan 2019</text:p>
-   <text:list xml:id="list3334243834" text:style-name="L2">
+   <text:list xml:id="list1964217748" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P43">Developed Java 8 web back-end with Oracle SQL</text:p>
+     <text:p text:style-name="P44">Developed Java 8 web back-end with Oracle SQL</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P41"><text:span text:style-name="T7">☆ Buil</text:span><text:span text:style-name="T9">t</text:span><text:span text:style-name="T7"> numerous meta-programming </text:span><text:span text:style-name="T11">utilities</text:span><text:span text:style-name="T7"> to increase developer productivity (utilizing Java Reflection API)</text:span></text:p>
+     <text:p text:style-name="P42"><text:span text:style-name="T7">☆ Buil</text:span><text:span text:style-name="T9">t</text:span><text:span text:style-name="T7"> numerous meta-programming </text:span><text:span text:style-name="T11">utilities</text:span><text:span text:style-name="T7"> to increase developer productivity (utilizing Java Reflection API)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P49">Implemented OOP abstractions for many common operations</text:p>
+     <text:p text:style-name="P46">Implemented OOP abstractions for many common operations</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Spearheaded Linux Project Management KVM server</text:p>
+     <text:p text:style-name="P45">Spearheaded Linux Project Management KVM server</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P44">Ubuntu, Redmine, Jenkins, Gitlab, libvirt</text:p>
+       <text:p text:style-name="P45">Ubuntu, Redmine, Jenkins, Gitlab, libvirt</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42"><text:span text:style-name="T12">Exemplified</text:span><text:span text:style-name="T7"> Functional Programming in Java 8</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T12">Exemplified</text:span><text:span text:style-name="T7"> Functional Programming in Java 8</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Contributed to homegrown SQL query builder library</text:p>
+     <text:p text:style-name="P45">Contributed to homegrown SQL query builder library</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Converted legacy Delphi codebase faithfully</text:p>
+     <text:p text:style-name="P45">Converted legacy Delphi codebase faithfully</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Fixed bugs across full stack from JS to DAO</text:p>
+     <text:p text:style-name="P45">Fixed bugs across full stack from JS to DAO</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Evangelized git – designed branch/release strategy</text:p>
+     <text:p text:style-name="P45">Evangelized git – designed branch/release strategy</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Encouraged code reviews</text:p>
+     <text:p text:style-name="P45">Encouraged code reviews</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Implemented static analysis with SonarQube and null annotations</text:p>
+     <text:p text:style-name="P45">Implemented static analysis with SonarQube and null annotations</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">Pfizer Inc. via Glemser Tech<text:span text:style-name="T8">nologies</text:span></text:h>
    <text:p text:style-name="Standard"><text:span text:style-name="T4">Systems Analyst</text:span><text:span text:style-name="T8"> <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s text:c="5"/><text:tab/> Oct 2012 – Jan 2013</text:span></text:p>
-   <text:list xml:id="list1198971316" text:style-name="L3">
+   <text:list xml:id="list4233847644" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P45">Managed Data for global Quality Tracking System</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P45">Q3 Testing</text:p>
+     <text:p text:style-name="P47">Managed Data for global Quality Tracking System; Q3 Testing</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">Air Products</text:h>
    <text:p text:style-name="P11"><text:span text:style-name="T3">Intern</text:span> <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s text:c="10"/>Summer 2011</text:p>
-   <text:list xml:id="list2903160328" text:style-name="L4">
+   <text:list xml:id="list3091351484" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P46">Built WAMP Wiki Demo Server</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P35">Transitioned 500 Users from eRoom to MS Office 365</text:p>
+     <text:p text:style-name="P48">Built WAMP Wiki Demo Server</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P26" text:outline-level="3">Presentations</text:h>
-   <text:list xml:id="list4243356966" text:style-name="L5">
+   <text:h text:style-name="P28" text:outline-level="3">Presentations</text:h>
+   <text:list xml:id="list3930433932" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P47">☆ <text:span text:style-name="T13">C</text:span>ollectors by Induction</text:p>
+     <text:p text:style-name="P49">☆ <text:span text:style-name="T13">C</text:span>ollectors by Induction</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">The Stateful Consumer Pattern</text:p>
+     <text:p text:style-name="P49">The Stateful Consumer Pattern</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Raku – The Only Correct Language</text:p>
+     <text:p text:style-name="P49">Raku – The Only Correct Language</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Tests and Testability and Sea Monsters</text:p>
+     <text:p text:style-name="P49">Tests and Testability and Sea Monsters</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">String Counting Kata</text:p>
+     <text:p text:style-name="P49">String Counting Kata</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P51">Popular Hacking</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P25" text:outline-level="3">Projects</text:h>
-   <text:list xml:id="list166211941" text:style-name="L6">
+   <text:h text:style-name="P27" text:outline-level="3">Projects</text:h>
+   <text:list xml:id="list3517662836" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P48">PGP Word List Transcriber</text:p>
+     <text:p text:style-name="P50">PGP Word List Transcriber</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Political Advocacy Constituent Relationship Manager</text:p>
+     <text:p text:style-name="P50">Political Advocacy Constituent Relationship Manager</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Textbook Matchmaking Service</text:p>
+     <text:p text:style-name="P50">Textbook Matchmaking Service</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Debate Web App</text:p>
+     <text:p text:style-name="P50">Debate Web App</text:p>
     </text:list-item>
    </text:list>
   </office:text>
