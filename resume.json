@@ -1,0 +1,261 @@
+{
+  "basics": {
+    "name": "Eric Riese",
+    "label": "Code Craftsman | Amateur Economist",
+    "email": "eric.riese@gmail.com",
+    "phone": "215-259-8486",
+    "website": "https://hire.ericrie.se/",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "er2",
+        "url": "https://github.com/er2/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Scala",
+      "level": "",
+      "keywords": [
+        "Scala",
+        "Functional Programming"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "Oracle",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": [
+        "Git",
+        "GitLab"
+      ]
+    },
+    {
+      "name": "Clojure",
+      "level": "",
+      "keywords": [
+        "Clojure"
+      ]
+    },
+    {
+      "name": "Raku",
+      "level": "",
+      "keywords": [
+        "Raku (Perl 6)"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "React"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "FP",
+      "level": "",
+      "keywords": [
+        "Functional Programming"
+      ]
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": [
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "Scrum"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lehigh University",
+      "area": "Computer Science/Engineering",
+      "studyType": "B.S.",
+      "startDate": "2008",
+      "endDate": "2012"
+    },
+    {
+      "institution": "EPFL via Coursera",
+      "area": "Functional Programming in Scala",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "work": [
+    {
+      "name": "Envestnet",
+      "position": "Software Engineer II",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "highlights": [
+        "Developed STP microservice",
+        "Wrote tests along the spectrum of integration, unit and characterization tests with concise, readable, precise and robust fluent style assertions with AssertJ",
+        "Internalized Spring Boot idioms",
+        "Maintained legacy UMP Application – Turnkey Asset Mgmt Platform"
+      ],
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Postgres AWS Aurora",
+        "kubernetes",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Wingspan, an IQVIA Company",
+      "position": "Sr Software Engineer",
+      "startDate": "2019-01-01",
+      "endDate": "2021-06-01",
+      "highlights": [
+        "Maintained Electronic Trial Master File Application",
+        "Designed and Developed Deployed Application Facilitation Tooling with multi-tier plugin architecture"
+      ],
+      "keywords": [
+        "Scala",
+        "Java",
+        "PostgreSQL",
+        "TypeScript",
+        "React",
+        "MobX"
+      ]
+    },
+    {
+      "name": "T.S. Partners, Inc.",
+      "position": "Software Developer",
+      "startDate": "2013-10-01",
+      "endDate": "2019-01-01",
+      "highlights": [
+        "Developed Java 8 web back-end with Oracle SQL",
+        "Built numerous meta-programming utilities to increase developer productivity (utilizing Java Reflection API)",
+        "Implemented OOP abstractions for many common operations",
+        "Spearheaded Linux Project Management KVM server with Ubuntu, Redmine, Jenkins, Gitlab, libvirt",
+        "Exemplified Functional Programming in Java 8",
+        "Contributed to homegrown SQL query builder library",
+        "Converted legacy Delphi codebase faithfully",
+        "Fixed bugs across full stack from JS to DAO",
+        "Evangelized git – designed branch/release strategy",
+        "Encouraged code reviews",
+        "Implemented static analysis with SonarQube and null annotations"
+      ],
+      "keywords": [
+        "Java",
+        "Oracle SQL",
+        "Linux",
+        "git",
+        "TypeScript",
+        "Docker",
+        "FP",
+        "OOP"
+      ]
+    },
+    {
+      "name": "Pfizer Inc. via Glemser Technologies",
+      "position": "Systems Analyst",
+      "startDate": "2012-10-01",
+      "endDate": "2013-01-01",
+      "highlights": [
+        "Managed Data for global Quality Tracking System; Q3 Testing"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Air Products",
+      "position": "Intern",
+      "startDate": "2011-06-01",
+      "endDate": "2011-08-01",
+      "highlights": [
+        "Built WAMP Wiki Demo Server"
+      ],
+      "keywords": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "PGP Word List Transcriber",
+      "description": "",
+      "keywords": [
+        "Java",
+        "PGP",
+        "Chrome Text-to-Speech API"
+      ]
+    },
+    {
+      "name": "Political Advocacy Constituent Relationship Manager",
+      "description": "",
+      "keywords": [
+        "Drupal",
+        "CiviCRM"
+      ]
+    },
+    {
+      "name": "Textbook Matchmaking Service",
+      "description": "",
+      "keywords": [
+        "PHP"
+      ]
+    },
+    {
+      "name": "Debate Web App",
+      "description": "",
+      "keywords": [
+        "PHP"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Popular Economics"
+      ]
+    }
+  ]
+}
