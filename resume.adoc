@@ -1,0 +1,19 @@
+== Eric Riese
+
+=== Software Developer
+
+[cols="1,1"]
+|===
+a|=== Education
+a|===== Lehigh University 2012
+a|B.S. Computer Science/Engineering
+a|=== Skills
+
+- Java
+- Scala
+- Linux
+- SQL
+- JavaScript
+- SQL
+
+|===
